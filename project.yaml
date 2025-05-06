@@ -1,5 +1,5 @@
 basic:
-    name: Huel-Lueilwitz
+    name: "Pacocha-O'Kon"
     environments:
         production: 'https://GOOGLE.com'
         staging: ''
